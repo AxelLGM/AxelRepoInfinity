@@ -1,17 +1,10 @@
-baseTriangulo = float(input("digite o valor da base do triangulo: "))
-alturaTriangulo = float(input("digite o valor da altura do triangulo: "))
+baseRetangulo = float(input("digite o valor da base do Retangulo: "))
+alturaRetangulo = float(input("digite o valor da altura do Retangulo: "))
 
-areaTriangulo = (baseTriangulo*alturaTriangulo)
+areaRetangulo = (baseRetangulo*alturaRetangulo)
 
-print(f"a area do triangulo é {areaTriangulo:.2f}")
+print(f"a area do triangulo é {areaRetangulo:.2f}")
 
------------------------------------------------
 
-baseTriangulo = float(input("Digite o valor da base do triangulo: "))
-alturaTriangulo = float(input("Digite o valor da altura do triangulo: "))
 
-areaTriangulo = (baseTriangulo * alturaTriangulo) / 2
 
-print(f"A área do triangulo é {areaTriangulo:.2f}") 
-
------------------------------------------------
